@@ -16,4 +16,4 @@ Insert a link to a live demo or a screenshot/GIF of the app in action.
 ## Usage
 1. Open the app in the browser.
 2. You'll see an initial numeric display.
-3. Use the "+1" and "-1" buttons to increase or decrease the numeric value.
+3. Use the "+" and "-" buttons to increase or decrease the numeric value.
