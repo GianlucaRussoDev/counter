@@ -6,7 +6,7 @@ A simple app that allows you to increase or decrease a numeric value through two
 ![](https://github.com/GianlucaRussoDev/counter/blob/main/loopcounter_V1.gif)
 
 try my app 
-[## Installation](https://elegant-belekoy-7bcdfc.netlify.app/)
+[counter](https://elegant-belekoy-7bcdfc.netlify.app/)
 
 ## Features
 - Increment or decrement a numeric value using two buttons.
