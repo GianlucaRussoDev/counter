@@ -3,7 +3,7 @@
 A simple app that allows you to increase or decrease a numeric value through two interactive buttons.
 
 ## Demo
-Insert a link to a live demo or a screenshot/GIF of the app in action.
+![](https://github.com/GianlucaRussoDev/counter/blob/main/loopcounter_V1.gif)
 
 ## Features
 - Increment or decrement a numeric value using two buttons.
