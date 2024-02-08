@@ -10,7 +10,7 @@ Insert a link to a live demo or a screenshot/GIF of the app in action.
 - Intuitive and responsive interface.
 
 ## Installation
-1. Clone the repository or download the ZIP file.
+1. Clone the repository.
 2. Open the `index.html` file in your preferred browser.
 
 ## Usage
